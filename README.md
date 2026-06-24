@@ -32,8 +32,8 @@ pip install opencv-python
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/face-detection.git
-cd face-detection
+git clone https://github.com/ramy351/python-FaceDetection-project.git
+cd python-FaceDetection-project
 ```
 
 2. Run the script:
